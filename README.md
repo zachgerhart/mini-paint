@@ -44,7 +44,7 @@ This is because they all share the same class, by the name of box. We are curren
   })
 ```
 
-'this' is a very common word in JavaScript and it's also very confusion. In this case with our jQuery code it's referring to the specific box we clicked on. Often times you'll find yourself in positions where you need to change one thing, in an array of many. If you ever find yourself changing all of them, experiement with 'this' a bit. 
+The keyword 'this' is very common in JavaScript and it's also very confusion. In this case with our jQuery code it's referring to the specific box we clicked on. Often times you'll find yourself in positions where you need to change one thing, in an array of many. If you ever find yourself changing all of them, experiement with 'this' a bit. 
 
 ## Step 2 - Edits
 
